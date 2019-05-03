@@ -1,0 +1,3 @@
+C:/Users/albin/CLionProjects/TAREA3_JosephPena_AlejandroMamani/cmake-build-debug/CMakeFiles/TAREA3_JosephPena_AlejandroMamani.dir
+C:/Users/albin/CLionProjects/TAREA3_JosephPena_AlejandroMamani/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/albin/CLionProjects/TAREA3_JosephPena_AlejandroMamani/cmake-build-debug/CMakeFiles/rebuild_cache.dir
